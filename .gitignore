@@ -1,0 +1,7 @@
+*.code-workspace
+# *.env*
+node_modules/
+.vscode/
+.cache/
+.favorites.json
+
